@@ -1,0 +1,8 @@
+data:
+  go:
+    kr:
+      base-url: http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0
+      apis:
+        -
+          name: 초단기예보조회
+          url: getUltraSrtFcst
